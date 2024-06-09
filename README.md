@@ -1,3 +1,6 @@
+# ABOUT
+
+I developed a responsive web application using React.js and Node.js that serves as a dynamic photo gallery. On the frontend, I utilized React hooks and Axios for efficient API integration, fetching and displaying photo data from a Node.js backend. The application features modular components such as Navbar, Grid, and Button for seamless user interaction. For backend functionality, I configured an Express.js server, integrating it with MongoDB for storing and managing photo data. The project includes file upload capabilities using multer middleware and implements RESTful API endpoints for CRUD operations. To ensure security and compatibility, I implemented CORS middleware for cross-origin resource sharing. Throughout development, I prioritized responsiveness and usability, testing the application across various devices and browsers to ensure a smooth user experience.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
